@@ -41,3 +41,5 @@ int main()
     cout<<noOfSteps(n, res);   
     return 0;
 }
+
+//done
