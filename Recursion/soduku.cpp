@@ -4,4 +4,4 @@ int main(){
     return 0;
 }
 
-solve it
+// done on leetcode

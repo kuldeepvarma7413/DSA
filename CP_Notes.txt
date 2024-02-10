@@ -141,8 +141,7 @@ https://leetcode.com/problems/merge-k-sorted-lists/description/
 
 ////////////////////////////////// 27 jan 2024 //////////////////////////////////////
 
-Recursion=>
-
+Recursion =>
 Q. tower of hanoi
 Q. no of ways to reach ith stair
 Q. cost of ways to reach ith stair
@@ -156,3 +155,65 @@ Q. no. binary search trees can be formed by n nodes
 
 ////////////////////////////////// 29 jan 2024 //////////////////////////////////////
 
+solution =>
+Q. no. binary search trees can be formed by n nodes
+
+Recursion =>
+Questions =>
+Q. bubble sort recursive (using for loop and without for loop)
+Q. tower of hanoi https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1
+Q. Letter Combinations of a Phone Number (leetcode)
+Q. N Queen (print one configration, print all configrations, cout all configrations)    https://leetcode.com/problems/n-queens/description/
+Q. Soduku solver    https://leetcode.com/problems/sudoku-solver/description/
+
+
+////////////////////////////////// 30 jan 2024 //////////////////////////////////////
+
+Recursion =>
+Questions =>
+
+Q. find longest consecutive sequence in given matrix (or graph)
+Q. rate in maze (2 direction and 4 direction) (matrix have blocked boxes)
+Q. Maximize the coins collected by two person (person 1 : left top, person 2 : left bottom) and having only one overlaping
+   cell (overlapping cell coins won't be considered) (2d matrix) (person 1 : exit right bottom, person 2 : exit right top)
+Q. 
+
+////////////////////////////////// 31 jan 2024 //////////////////////////////////////
+Placement Drive
+
+Q. frog jump
+Q. ladder ( dp O(kn), recursive O(k^n), sliding O(n) )
+Q. wines (diagonal printing)
+=> PDF notes
+
+////////////////////////////////// 1 feb 2024 //////////////////////////////////////
+
+Q. balanced BST
+Q. diameter of BST
+Q. Transform to sum tree
+Q. maximize profit of Rod after cutting of length between 0 to n
+
+////////////////////////////////// 2 feb 2024 //////////////////////////////////////
+
+Q. max length of increasing chain in array (leetcode 300)
+Q. Maximum height by stacking cuboids (1691 leetcode)
+
+topic => DP on strings
+1143. Longest Common Subsequence (LCS) (do it in vs) (bottom up done but print sequence)
+Q. Edit Distance (simalarity of strings) (operations=> replace, insert, delete) (minimize operations) (s1->s2 only)
+
+
+////////////////////////////////// 3 feb 2024 //////////////////////////////////////
+
+Q. taking 1 out of 3 consecutives (minimum)
+Q. pattern matching (regex matching)    // do bottom up
+Q. leetcode 10
+Q. 0-1 knapsack
+
+practice leetcode 10, 1043, 1291, merge k sorted arrays gfg, fractional knapsack gfg 
+
+
+////////////////////////////////// 5 feb 2024 //////////////////////////////////////
+
+Topics => Graph (algo belmin fo...)
+Q.
