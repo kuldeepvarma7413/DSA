@@ -217,3 +217,9 @@ practice leetcode 10, 1043, 1291, merge k sorted arrays gfg, fractional knapsack
 
 Topics => Graph (algo belmin fo...)
 Q.
+
+
+////////////////////////////////// 10 feb 2024 //////////////////////////////////////
+
+GSS1 - spoj (only max of range)
+GSS3 - spoj (mac of range and update)
