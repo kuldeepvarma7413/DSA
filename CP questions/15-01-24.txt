@@ -1,0 +1,27 @@
+15 jan 2024
+
+two pointer
+sliding window
+deque
+stack
+
+
+Q. pair sum -> n distinct elements, a[i]+a[j]=k
+Q. N distinct sorted element a[j]-a[i]=k
+Q. triplet sum a[i]+a[j]+a[k]=s
+Q. triplet sum a[i]+a[j]+a[k]<=s (asked in google/advance)
+Q. find maximum sum of a subarray of length k
+Q. min length of subarray whose sum is k.
+
+Q. stock span problem   [100, 80, 120, 70, 60, 75, 85]
+	//output	[1  , 1 , 3  , 1 , 1 , 3 , 4 ]  use stack and store indexes
+Q. histogram area problem
+
+
+16 Jan 2024
+
+Q. Maximum sum subarray
+Q. Histogram
+Q. Maximum Rectangle (leetcode 85)
+Q. maximum of subarray of k length (deque, set, multiset)
+Q. find kth no. of series formed by given numbers in array.
